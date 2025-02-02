@@ -1,6 +1,6 @@
 # Untitled Site 2.0
 
-## Paragraph Section
+## Mini description
 Simple bypass method using embed tags. Because of embeds, not all sites work (CORS Policy).
 
 ---
